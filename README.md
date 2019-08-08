@@ -1,4 +1,4 @@
-Magento sample data includes a sample store, complete with more than 250 products (about 200 of them are configurable products), categories, promotional price rules, CMS pages, banners, and so on. Sample data uses the Luma theme on the storefront.
+acbjunkMagento sample data includes a sample store, complete with more than 250 products (about 200 of them are configurable products), categories, promotional price rules, CMS pages, banners, and so on. Sample data uses the Luma theme on the storefront.
 
 Installing sample data is optional.
 
